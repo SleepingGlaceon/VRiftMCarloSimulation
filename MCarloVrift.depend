@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1591841075 source:z:\otherprojects\mcarlovrift\main.cpp
+	<iostream>
+	"RNGSimulation.h"
+
+1591840481 z:\otherprojects\mcarlovrift\rngsimulation.h
+	<iostream>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1591841131 source:z:\otherprojects\mcarlovrift\rngsimulation.cpp
+	"RNGSimulation.h"
+
